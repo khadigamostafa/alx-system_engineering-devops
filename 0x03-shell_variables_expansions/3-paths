@@ -1,2 +1,2 @@
 #!/bin/bashi
-echo $PATH |tr ":" "\n" WC -l
+echo $PATH |tr ":" "\n" | WC -l
